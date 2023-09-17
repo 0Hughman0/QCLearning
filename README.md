@@ -2,6 +2,12 @@
 
 This repo contains notes learning and exploring key concepts in Quantum Computing.
 
+    pipenv install
+	
+Or run in Binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/0Hughman0/QCLearning/HEAD)
+
 ## Bibliography:
 
 1. IBM courses, https://learning.quantum-computing.ibm.com/
