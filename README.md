@@ -1,6 +1,6 @@
 # QCLearning
 
-This repo contains notes learning and exploring key concepts in Quantum Computing.
+This repo contains notes learning and exploring key concepts in Quantum Computing. Quantum circuits are implemented and run with [Qiskit](https://qiskit.org/ecosystem/aer/getting_started.html)
 
     pipenv install
 	
